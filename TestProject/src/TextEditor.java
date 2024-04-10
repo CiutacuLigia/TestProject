@@ -12,7 +12,7 @@ public class TextEditor extends JFrame implements ActionListener{
 		this.setSize(500, 500);
 		this.setLayout(new FlowLayout());
 		this.setVisible(true);
-		//hello earth
+		//hello 
 	}
 	
 	@Override
